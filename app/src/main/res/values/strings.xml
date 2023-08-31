@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BlogApp</string>
+    <string name="blog_title_label">Title</string>
+    <string name="blog_title_hint">Enter a blog title.</string>
+    <string name="blog_details_hint">Type here...</string>
+    <string name="blog_details_label">BLOG</string>
+    <string name="blog_complete_label">Done!</string>
+    <string name="blog_send_text">Share..</string>
+    <string name="delete_blog">Bin</string>
+    <string name="new_blog">New Blog</string>
+    <string name="calendar_title">Blog Date</string>
+    <string name="blog_post">TOPIC OF THE DAY: %1$s. MY OPINION - %2$s. %3$s </string>
+    <string name="blog_subject">Blog Post</string>
+    <string name="send_blog">Send blog via..</string>
+    <string name="blog_post_finished">What do you think?</string>
+    <string name="blog_post_unfinished">NOT yet finished...</string>
+</resources>
